@@ -1,0 +1,4 @@
+Sorry  but the maximum file size on Git Hub is 25 MB
+and Bonzi Kill is much bigger.
+You will need to download the sample from here:
+https://www.mediafire.com/file/s4cvr6unh33kye4/BonziKill.zip/file
