@@ -1,0 +1,11 @@
+Hello! Please check out my project on github.
+It is called Loveware, an email and net-worm.
+
+You can participate in the project if you want,
+because this peace of malware is community driven.
+
+Official Repository: https://github.com/TheG0df2ther/Loveware/blob/master/Loveware/Loveware.bat
+
+Regards,
+
+TheG0df2ther
